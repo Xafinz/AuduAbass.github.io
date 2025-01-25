@@ -1,7 +1,5 @@
 # Audu Abass - Portfolio
 
-![Audu Abass](assets/Audu_Abass.jpg)
-
 Hello! I’m **Audu Abass** 🤓, a **results-driven professional** with expertise in **operations management**, **lead generation**, **sales**, **web development**, and **customer service**. I help businesses optimize processes, automate workflows, and drive growth through **data-driven strategies**.
 
 ## About Me
