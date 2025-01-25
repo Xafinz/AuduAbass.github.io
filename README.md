@@ -46,7 +46,7 @@ Implemented targeted lead generation strategies, leveraging social media, email 
 Designed and developed a responsive website for Intel Capitol, improving user navigation, speed, and functionality. Integrated CRM tools for seamless lead management, resulting in a 30% improvement in lead conversion and a 40% reduction in website bounce rates.
 
 ### Solar Designer for Nerdfam
-![Solar Design](assets/nerdfam-solar.jpg)  
+![image](Solar Design sample.jpg)  
 Developed custom solar panel system designs for Nerdfam, utilizing advanced solar design software to optimize energy efficiency. Improved project timelines by 20% through detailed design and accurate project planning.
 
 
