@@ -1,7 +1,6 @@
-title: "Audu Abass - Portfolio"
----
+# Audu Abass - Portfolio
 
-# ![Audu Abass](assets/Audu_Abass.jpg)
+![Audu Abass](assets/Audu_Abass.jpg)
 
 Hello! I’m **Audu Abass** 🤓, a **results-driven professional** with expertise in **operations management**, **lead generation**, **sales**, **web development**, and **customer service**. I help businesses optimize processes, automate workflows, and drive growth through **data-driven strategies**.
 
@@ -108,6 +107,7 @@ Optimized the e-commerce sales process, boosting conversion rates by 20% and enh
 - Certificate for Virtual Assistant  
 - Customer Success Management Fundamentals  
 - Advanced Excel
+- View My Certifications (https://drive.google.com/drive/folders/1veH38Txy3VCygbfRc1u5TOaV9GjcTgt9)
 
 ---
 
@@ -132,8 +132,4 @@ Let's connect and explore how we can collaborate!
 ### Testimonials
 *“He is awesome and works his tail off! I'd hire him every time.”*  
 *“Audu is an excellent freelancer. Very bright and committed to producing top-tier work. He has a willingness to learn and master new tasks. Strongly recommend hiring him.”*
-
----
-
-This portfolio layout provides a structured yet comprehensive overview of your professional skills, experience, projects, and contact information, tailored for GitHub or any other platform where you might be presenting your work.
 
