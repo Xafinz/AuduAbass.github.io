@@ -33,6 +33,19 @@ Managed content strategy for 100+ SEO articles, increasing organic traffic and l
 ![Sales Automation](assets/tuds-sales.jpg)  
 Optimized the e-commerce sales process, boosting conversion rates by 20% and enhancing user experience.
 
+### Lead Generation for Intel Capitol
+![Lead Generation](assets/intelcapitol-leads.jpg)  
+Implemented targeted lead generation strategies, leveraging social media, email campaigns, and CRM tools to identify and nurture high-quality leads. Resulted in a 25% increase in qualified leads and a 15% boost in overall sales conversion rates.
+
+### Web Development for Intel Capitol
+![Web Development](assets/intelcapitol-web.jpg)  
+Designed and developed a responsive website for Intel Capitol, improving user navigation, speed, and functionality. Integrated CRM tools for seamless lead management, resulting in a 30% improvement in lead conversion and a 40% reduction in website bounce rates.
+
+### Solar Designer for Nerdfam
+![Solar Design](assets/nerdfam-solar.jpg)  
+Developed custom solar panel system designs for Nerdfam, utilizing advanced solar design software to optimize energy efficiency. Improved project timelines by 20% through detailed design and accurate project planning.
+
+
 [Download the Full Report (PDF)](assets/portfolio-report.pdf)
 
 ---
