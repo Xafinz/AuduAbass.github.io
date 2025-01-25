@@ -1,4 +1,4 @@
-# Audu Abass - Portfolio
+# ![Audu Abass](assets/Audu\ Abass.jpg)  
 
 ## ABOUT ME
 
