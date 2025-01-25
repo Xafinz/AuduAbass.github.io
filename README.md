@@ -38,7 +38,7 @@ Managed content strategy for 100+ SEO articles, increasing organic traffic and l
 Optimized the e-commerce sales process, boosting conversion rates by 20% and enhancing user experience.
 
 ### Lead Generation for Intel Capitol
-![Lead Generation](assets/intelcapitol-leads.jpg)  
+![image](Lead generations .jpg)  
 Implemented targeted lead generation strategies, leveraging social media, email campaigns, and CRM tools to identify and nurture high-quality leads. Resulted in a 25% increase in qualified leads and a 15% boost in overall sales conversion rates.
 
 ### Web Development for Intel Capitol
