@@ -26,7 +26,7 @@ With years of experience across diverse industries, I specialize in providing so
 Designed and executed an email campaign with automated workflows, increasing customer engagement and driving conversion rates.
 
 ### Automated Marketing Campaigns in GoHighLevel
-![GoHighLevel Campaign](assets/gohighlevel.jpg)  
+![image](marketing Campaign.jpg)  
 Designed and implemented automated marketing workflows, reducing manual follow-ups by 30% and improving customer retention rates.
 
 ### SEO-Optimized Content Strategy for Daiki Media
