@@ -22,7 +22,7 @@ With years of experience across diverse industries, I specialize in providing so
 ## My Portfolio
 
 ### Workflow Automation Email Campaign
-![Workflow Automation Email Campaign](assets/WORKFLOW_AUTOMATION_EMAIL_CAMPAIGN.jpg)  
+![image][Workflow Automation Email Campaign](assets/WORKFLOW_AUTOMATION_EMAIL_CAMPAIGN.jpg)  
 Designed and executed an email campaign with automated workflows, increasing customer engagement and driving conversion rates.
 
 ### Automated Marketing Campaigns in GoHighLevel
