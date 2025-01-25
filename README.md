@@ -1,4 +1,4 @@
-# ![Audu Abass](assets/Audu\ Abass.jpg)  
+#(assets/Audu\ Abass.jpg)  
 
 ## ABOUT ME
 
