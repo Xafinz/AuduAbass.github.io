@@ -22,6 +22,10 @@ With years of experience across diverse industries, I specialize in providing so
 ## My Portfolio
 
 ### Automated Marketing Campaigns in GoHighLevel
+![GoHighLevel Campaign](assets/Screenshot_workflow2024-12-24_133554.png)  
+Designed and implemented automated marketing workflows, reducing manual follow-ups by 30% and improving customer retention rates.
+
+### Automated Marketing Campaigns in GoHighLevel
 ![GoHighLevel Campaign](assets/gohighlevel.jpg)  
 Designed and implemented automated marketing workflows, reducing manual follow-ups by 30% and improving customer retention rates.
 
