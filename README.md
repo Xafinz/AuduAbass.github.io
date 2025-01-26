@@ -122,7 +122,7 @@ Developed custom solar panel system designs for Nerdfam, utilizing advanced sola
 - Certificate for Virtual Assistant  
 - Customer Success Management Fundamentals  
 - Advanced Excel
-- View My Certifications (https://drive.google.com/drive/folders/1veH38Txy3VCygbfRc1u5TOaV9GjcTgt9)
+- [View My Certifications](https://drive.google.com/drive/folders/1veH38Txy3VCygbfRc1u5TOaV9GjcTgt9)
 
 ---
 
