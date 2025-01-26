@@ -123,9 +123,13 @@ With years of experience across diverse industries, I specialize in providing so
 ## Certifications
 
 ✅ Customer Relationship Management (CRM) Fundamentals
+
 ✅ Power Start in Project Management 3.0
+
 ✅ Certified Virtual Assistant
+
 ✅ Customer Success Management Fundamentals
+
 ✅ Advanced Excel Proficiency
 📂[View My Certifications](https://drive.google.com/drive/folders/1veH38Txy3VCygbfRc1u5TOaV9GjcTgt9)
 
@@ -133,8 +137,11 @@ With years of experience across diverse industries, I specialize in providing so
 
 ## Why Work With Me?
 💡 Strategic Thinker: I analyze business needs and provide solutions that drive efficiency.
+
 🔄 Tech-Savvy & Automation Expert: I use automation tools to eliminate repetitive tasks and improve workflow.
+
 🌍 Flexible & Reliable: I work across multiple time zones and maintain strong communication.
+
 🖥️ Dedicated Home Office: I operate from a distraction-free workspace with dual monitors and fast internet.
 
 📢 Let’s discuss how I can add value to your business.
