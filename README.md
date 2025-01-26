@@ -55,11 +55,6 @@ With years of experience across diverse industries, I specialize in providing so
 
 ## How I Can Elevate Your Organization
 
-📌 ### **Accounts Payable (AP) & Receivable (AR) Management**
-Process invoices and payments accurately.
-Track and manage receivables to ensure timely collections.
-Generate financial reports with insights on cash flow and revenue trends.
-
 ### **Accounts Payable (AP) and Receivable (AR) Management**
 - Process invoices and payments with attention to detail.
 - Track and manage receivables for timely collections.
