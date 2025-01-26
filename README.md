@@ -119,7 +119,12 @@ Developed custom solar panel system designs for Nerdfam, utilizing advanced sola
 - **Social Media Management**: Meta Business Suite, Canva  
 - **Email Marketing**: Mailchimp, ActiveCampaign, Zoho, Zendesk  
 - **Communication**: Zoom, Microsoft Teams
-
+- 🎯 Project Management: Trello, Asana, Monday.com, Smartsheet, Microsoft Project, JIRA
+- 💰 Financial Management: QuickBooks, Sage360, Stripe
+- 📊 Data Management: GoHighLevel, Google Workspace
+- 📞 CRM: Odoo, Zoho, Hivemind, Zendesk
+- 📱 Social Media & Marketing: Meta Business Suite, Canva, Mailchimp, ActiveCampaign
+- 💻 Web Development: WordPress, GoHighLevel
 ---
 
 ## Certifications
