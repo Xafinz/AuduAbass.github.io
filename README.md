@@ -65,16 +65,18 @@ Developed custom solar panel system designs for Nerdfam, utilizing advanced sola
 - Develop project plans with tasks, timelines, and milestones.
 - Utilize Trello, Asana, and Monday.com for tracking progress.
 - Provide updates on key performance indicators (KPIs).
+- [Project Managment](https://drive.google.com/drive/folders/1Sr02-cBsgTHrmqm8__7dUnGjicwLkyK8?usp=sharing)
 
 ### **General Administration**
 - Manage schedules, coordinate meetings, and handle correspondence.
 - Draft and format documents, reports, and presentations.
+- [View My General Admin Task](https://drive.google.com/drive/folders/17rfw7KLf-c9W8AnZIId33tudhy_bcavN?usp=sharing)
 
 ### **Lead Generation**
 - Gather and maintain organized databases of leads.
 - Conduct research to identify potential clients and markets.
 - Utilize social media and online platforms to generate leads.
-- [View My Customer Support](https://drive.google.com/drive/folders/1gxC47yc8mipVn05AeCu2Jd_5X_Cw73xv?usp=sharing)
+- [View My Lead Generated](https://drive.google.com/drive/folders/1gxC47yc8mipVn05AeCu2Jd_5X_Cw73xv?usp=sharing)
 
 ### **Customer Support**
 - Address inquiries promptly and professionally.
