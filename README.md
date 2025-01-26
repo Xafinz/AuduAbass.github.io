@@ -121,6 +121,7 @@ With years of experience across diverse industries, I specialize in providing so
 ---
 
 ## Certifications
+
 ✅ Customer Relationship Management (CRM) Fundamentals
 ✅ Power Start in Project Management 3.0
 ✅ Certified Virtual Assistant
