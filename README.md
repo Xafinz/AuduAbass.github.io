@@ -90,7 +90,7 @@ Developed custom solar panel system designs for Nerdfam, utilizing advanced sola
 ### **Email Marketing**
 - Design and execute campaigns using Mailchimp or ActiveCampaign.
 - Segment lists for targeted messaging and higher engagement rates.
-- [View My emailmarketing](https://drive.google.com/drive/folders/1DswwT29pEEm4rNmXys7jkz9ozXBc2uZn?usp=sharing)
+- [View My email marketing](https://drive.google.com/drive/folders/1DswwT29pEEm4rNmXys7jkz9ozXBc2uZn?usp=sharing)
 
 ### **Microsoft 365 (M365) Expertise**
 - Generating weekly and monthly financial reports.
