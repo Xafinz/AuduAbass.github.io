@@ -141,6 +141,9 @@ Let's connect and explore how we can collaborate!
 - 📞 +2348039247443
 - 🌐 [LinkedIn](https://www.linkedin.com/in/audu-abass-1121a395)
 - 💼 [View My Portfolio](https://your-username.github.io)
+- 📄 [View My Resume](https://drive.google.com/file/d/1WcRzeNNR_VtOatAc6Hcj1Ve_3BROhyUp/view?usp=sharing)
+Contact Details
+Let's connect and explore how we can collaborate!
 
 ---
 
