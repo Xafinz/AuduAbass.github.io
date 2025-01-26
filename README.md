@@ -74,10 +74,12 @@ Developed custom solar panel system designs for Nerdfam, utilizing advanced sola
 - Gather and maintain organized databases of leads.
 - Conduct research to identify potential clients and markets.
 - Utilize social media and online platforms to generate leads.
+- [View My Customer Support](https://drive.google.com/drive/folders/1gxC47yc8mipVn05AeCu2Jd_5X_Cw73xv?usp=sharing)
 
 ### **Customer Support**
 - Address inquiries promptly and professionally.
 - Cultivate and nurture client relationships to expand the clientele base.
+- [View My Customer Support](https://drive.google.com/drive/folders/1mY-BN-6BFDm5cg4it9v1rSHVsE27VaN6?usp=sharing)
 
 ### **Web Development (using GoHighLevel)**
 - Design user-friendly websites and landing pages.
