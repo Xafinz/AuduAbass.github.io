@@ -1,4 +1,4 @@
-# Audu Abass - Portfolio
+ # Audu Abass - Portfolio
 
 Hello! I’m **Audu Abass** 🤓, **results-driven professional**  with expertise in **operations management**, **lead generation**, **sales**, **web development**, and **customer service**. I help businesses optimize processes, automate workflows, and drive growth through data-driven strategies.
 
@@ -90,7 +90,7 @@ With years of experience across diverse industries, I specialize in providing so
 ### **Social Media Marketing (using Meta Business Suite)**
 - Create and manage content across platforms.
 - Analyze metrics to optimize strategies and engagement.
-
+- [Social Media](https:///drive.google.com/drive/folders/1K_D7g2ZF_Qw8M7wmmwi7wNsvljjavlZ4?usp=sharing)
 ### **Email Marketing**
 - Design and execute campaigns using Mailchimp or ActiveCampaign.
 - Segment lists for targeted messaging and higher engagement rates.
