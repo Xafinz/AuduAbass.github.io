@@ -94,6 +94,8 @@ With years of experience across diverse industries, I specialize in providing so
 
 - 
 ### **Email Marketing**
+### **Email Marketing**
+### **Email Marketing**
 - Design and execute campaigns using Mailchimp or ActiveCampaign.
 - Segment lists for targeted messaging and higher engagement rates.
 - [View the email marketing Task](https://drive.google.com/drive/folders/1DswwT29pEEm4rNmXys7jkz9ozXBc2uZn?usp=sharing)
