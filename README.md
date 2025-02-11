@@ -92,9 +92,6 @@ With years of experience across diverse industries, I specialize in providing so
 - Analyze metrics to optimize strategies and engagement.
 - [View Social Media I managed](https:///drive.google.com/drive/folders/1K_D7g2ZF_Qw8M7wmmwi7wNsvljjavlZ4?usp=sharing)
 
-- 
-### **Email Marketing**
-### **Email Marketing**
 ### **Email Marketing**
 - Design and execute campaigns using Mailchimp or ActiveCampaign.
 - Segment lists for targeted messaging and higher engagement rates.
