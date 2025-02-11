@@ -86,11 +86,12 @@ With years of experience across diverse industries, I specialize in providing so
 - Design user-friendly websites and landing pages.
 - Integrate CRM systems for seamless lead management.
 - [View My Web Development](https://drive.google.com/drive/folders/1aBnBL008tZ3pt6i_1yP03fiyHnWfHjnr?usp=sharing)
-
+- 
 ### **Social Media Marketing (using Meta Business Suite)**
 - Create and manage content across platforms.
 - Analyze metrics to optimize strategies and engagement.
 - [Social Media](https:///drive.google.com/drive/folders/1K_D7g2ZF_Qw8M7wmmwi7wNsvljjavlZ4?usp=sharing)
+- 
 ### **Email Marketing**
 - Design and execute campaigns using Mailchimp or ActiveCampaign.
 - Segment lists for targeted messaging and higher engagement rates.
