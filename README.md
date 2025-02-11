@@ -64,38 +64,38 @@ With years of experience across diverse industries, I specialize in providing so
 - Develop project plans with tasks, timelines, and milestones.
 - Utilize Trello, Asana, and Monday.com for tracking progress.
 - Provide updates on key performance indicators (KPIs).
-- [Project Managment](https://drive.google.com/drive/folders/1Sr02-cBsgTHrmqm8__7dUnGjicwLkyK8?usp=sharing)
+- [Project Managment Task](https://drive.google.com/drive/folders/1Sr02-cBsgTHrmqm8__7dUnGjicwLkyK8?usp=sharing)
 
 ### **General Administration**
 - Manage schedules, coordinate meetings, and handle correspondence.
 - Draft and format documents, reports, and presentations.
-- [View My General Admin Task](https://drive.google.com/drive/folders/17rfw7KLf-c9W8AnZIId33tudhy_bcavN?usp=sharing)
+- [View General Admin Task](https://drive.google.com/drive/folders/17rfw7KLf-c9W8AnZIId33tudhy_bcavN?usp=sharing)
 
 ### **Lead Generation**
 - Gather and maintain organized databases of leads.
 - Conduct research to identify potential clients and markets.
 - Utilize social media and online platforms to generate leads.
-- [View My Lead Generated](https://drive.google.com/drive/folders/1gxC47yc8mipVn05AeCu2Jd_5X_Cw73xv?usp=sharing)
+- [View the Leads Generated](https://drive.google.com/drive/folders/1gxC47yc8mipVn05AeCu2Jd_5X_Cw73xv?usp=sharing)
 
 ### **Customer Support**
 - Address inquiries promptly and professionally.
 - Cultivate and nurture client relationships to expand the clientele base.
-- [View My Customer Support](https://drive.google.com/drive/folders/1mY-BN-6BFDm5cg4it9v1rSHVsE27VaN6?usp=sharing)
+- [View Customer Support Task](https://drive.google.com/drive/folders/1mY-BN-6BFDm5cg4it9v1rSHVsE27VaN6?usp=sharing)
 
 ### **Web Development (using GoHighLevel)**
 - Design user-friendly websites and landing pages.
 - Integrate CRM systems for seamless lead management.
-- [View My Web Development](https://drive.google.com/drive/folders/1aBnBL008tZ3pt6i_1yP03fiyHnWfHjnr?usp=sharing)
+- [View Web Development Created](https://drive.google.com/drive/folders/1aBnBL008tZ3pt6i_1yP03fiyHnWfHjnr?usp=sharing)
 - 
 ### **Social Media Marketing (using Meta Business Suite)**
 - Create and manage content across platforms.
 - Analyze metrics to optimize strategies and engagement.
-- [Social Media](https:///drive.google.com/drive/folders/1K_D7g2ZF_Qw8M7wmmwi7wNsvljjavlZ4?usp=sharing)
+- [View Social Media I managed](https:///drive.google.com/drive/folders/1K_D7g2ZF_Qw8M7wmmwi7wNsvljjavlZ4?usp=sharing)
 - 
 ### **Email Marketing**
 - Design and execute campaigns using Mailchimp or ActiveCampaign.
 - Segment lists for targeted messaging and higher engagement rates.
-- [View My email marketing](https://drive.google.com/drive/folders/1DswwT29pEEm4rNmXys7jkz9ozXBc2uZn?usp=sharing)
+- [View the email marketing Task](https://drive.google.com/drive/folders/1DswwT29pEEm4rNmXys7jkz9ozXBc2uZn?usp=sharing)
 
 ### **Microsoft 365 (M365) Expertise**
 - Generating weekly and monthly financial reports.
