@@ -30,7 +30,7 @@ With years of experience across diverse industries, I specialize in providing so
 📈 Implemented automated marketing workflows, reducing manual follow-ups by 30% and improving customer retention rates.
 
 ### SEO-Optimized Content Strategy for Daiki Media
-![image][SEO Strategy](assets/daiki-seo.jpg)  
+![image](assets/SEO-Optimized Content Strategy for Daiki Media.png)
 🔍 Managed content strategy for 100+ SEO articles, leading to increased organic traffic and lead generation.
 
 ### Sales Process Automation for TUDS
