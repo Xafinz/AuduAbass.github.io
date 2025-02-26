@@ -30,11 +30,11 @@ With years of experience across diverse industries, I specialize in providing so
 📈 Implemented automated marketing workflows, reducing manual follow-ups by 30% and improving customer retention rates.
 
 ### SEO-Optimized Content Strategy for Daiki Media
-![SEO Strategy](assets/daiki-seo.jpg)  
+![image][SEO Strategy](assets/daiki-seo.jpg)  
 🔍 Managed content strategy for 100+ SEO articles, leading to increased organic traffic and lead generation.
 
 ### Sales Process Automation for TUDS
-![Sales Automation](assets/tuds-sales.jpg)  
+![image][Sales Automation](assets/tuds-sales.jpg)  
 💡 Optimized the e-commerce sales process, boosting conversion rates by 20% and enhancing user experience.
 
 ### Lead Generation for Intel Capitol
