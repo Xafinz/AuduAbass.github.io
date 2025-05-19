@@ -1,11 +1,10 @@
  # Audu Abass - Portfolio
-
-Hello! I’m **Audu Abass** 🤓, **results-driven professional**  with expertise in **operations management**, **lead generation**, **sales**, **web development**, and **customer service**. I help businesses optimize processes, automate workflows, and drive growth through data-driven strategies.
+👋 Hello! I’m **Audu Abass** 🤓, a results-oriented **Virtual Assistant** and **Operations Manager** with deep expertise in **administrative support**, **operations management**, **project management**, **sales operations**, **CRM automation**, **lead generation**, **sales**, **web development** and customer service. I help businesses streamline processes, automate workflows, and drive growth through data-backed strategies.
 
 ## About Me
-I am a versatile professional with a proven ability to drive business success by streamlining operations, optimizing workflows, and delivering exceptional administrative and project management support. My expertise spans **project management**, **automation**, **lead generation**, and **financial processes**. My goal is to enable organizations to operate efficiently, allowing key team members to focus on strategic goals.
+I am a highly versatile professional with a proven track record in managing cross-functional teams, enhancing operational workflows, and delivering excellent  administrative, project management and client support. I bring experience from industries including e-commerce, solar energy, Finance, telecommunications, social managemt and digital marketing.
+I excel in tools like **GoHighLevel**, **CickUp**, **QuickBooks**, **Google Workspace**, **Trello**, **Asana**, **Mailchimp**, **Odoo** **Meta Business Suite** **Rei Blackbook** **lofty** **Dootlop** and **Monday.com** — using them to drive automation, track KPIs, and scale systems efficiently.
 
-I have experience working with various tools such as **GoHighLevel**, **ClickUp**, **Trello**, **Monday.com**, **Google Workspace**, **QuickBooks**, **Mailchimp**, and more. I specialize in leveraging these tools to create optimized workflows, improve lead generation strategies, and ensure seamless business operations.
 
 ## What I Do
 With years of experience across diverse industries, I specialize in providing solutions that enhance business efficiency and profitability.
@@ -18,6 +17,9 @@ With years of experience across diverse industries, I specialize in providing so
 
 - ✅ **Operations & Process Improvement**  
   From financial reconciliation to CRM management, I ensure seamless operations that enhance customer experience and business efficiency.
+  
+- ✅ **Social Media Management & Content Scheduling**
+I plan, create, and schedule engaging content across Facebook, Instagram, and LinkedIn using Meta Business Suite, Canva, and Buffer, while monitoring performance metrics and audience engagement to drive brand visibility and growth.
 
 ## My Portfolio
 
